@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1208 888">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #0b2032;
+        stroke-width: 18px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-3 {
+        fill: #c98a6a;
+        font-family: CentralW00-Medium, CentralW00-Medium;
+        font-size: 48.2px;
+        font-weight: 500;
+        letter-spacing: .3em;
+      }
+
+      .cls-4 {
+        fill: #0b2032;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-width: 27.5px;
+      }
+
+      .cls-5 {
+        fill: #be7f52;
+      }
+    </style>
+  </defs>
+  <circle id="Disc" class="cls-4" cx="604.5" cy="278" r="218"/>
+  <path id="Chevron" class="cls-2" d="M508,366.2l96.5-197.2,96.5,197.2"/>
+  <circle id="Mark-Dot" class="cls-5" cx="604.5" cy="352.5" r="21.5"/>
+  <g id="Wordmark">
+    <path id="A" class="cls-1" d="M69,703l64.5-132,64.5,132"/>
+    <path id="L" class="cls-1" d="M325,571v132h91"/>
+    <path id="U" class="cls-1" d="M535,571v77.5c0,31.2,25.3,56.5,56.5,56.5s56.5-25.3,56.5-56.5v-77.5"/>
+    <path id="R" class="cls-1" d="M781,703v-132h68.5c20.8,0,37.8,16.9,37.8,37.8s-16.9,37.8-37.8,37.8h-68.5"/>
+    <path id="R-leg" class="cls-1" d="M846,646.5l37,56.5"/>
+    <path id="A-2" class="cls-1" d="M1011,703l64.5-132,64.5,132"/>
+  </g>
+  <g id="Counter-Dots">
+    <circle class="cls-5" cx="133.5" cy="680" r="13"/>
+    <circle class="cls-5" cx="1075.5" cy="680" r="13"/>
+  </g>
+  <text class="cls-3" transform="translate(194.7 825.9) rotate(-.2)"><tspan x="0" y="0">SIMPLY BETTER LIVING</tspan></text>
+</svg>
